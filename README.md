@@ -1,4 +1,4 @@
-[Alphadyn](https://github.com/alphadyn/ai/social-preview.png)
+[Alphadyn](/social-preview.png)
 
 ## Welcome to Alphadyn
 
