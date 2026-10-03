@@ -1,4 +1,4 @@
-![Alphadyn](https://alphadyn.github.io/ai/social-preview.png)
+[![Alphadyn](https://alphadyn.github.io/ai/social-preview.png)](https://alphadyn.github.io/ai/)
 
 ## Get Involved
 
