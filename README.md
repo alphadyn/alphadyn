@@ -3,5 +3,5 @@
 ## Get Involved
 
 * Explore featured [Alphadyn Apps](https://alphadyn.github.io/apps)
-* Explore featured [Alphadyn AI](https://alphadyn.github.io/ai) and the [Alphadyn Assistant](https://alphadyn.github.io/ai/assistant/)
+* Explore featured [Alphadyn AI](https://alphadyn.github.io/ai)
 * Visit [Alphadyn](https://alphadyn.com) to learn more!
